@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **PCB Design**
 
-- ⚡ Enthusiastic about: **Computer Science, Biomedical Engineering, Astronomy, Aerospace, Robotics**
+- ⚡ Enthusiastic about: **Computer Science (AI/ML), Astronomy, Biomedical Engineering, Aerospace Engineering, and Robotics**
 
 
 <h3 align="left">Languages and Tools:</h3>
