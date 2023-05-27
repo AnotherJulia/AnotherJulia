@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">An overly curious Aerospace Engineering student</h3>
 
-- 🔭 I’m currently working on: **The development of a portable, low-profile ECG device**
+- 🔭 I’m currently working on **the Development of Laminar Separation Bubbble Characterisation tools for data-analysis applications **
 
 - 🌱 I’m currently learning: **PCB Design**
 
