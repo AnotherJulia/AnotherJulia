@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">An overly curious Aerospace Engineering student</h3>
 
-- 🔭 I’m currently working on: **Developing Laminar Separation Bubbble Characterisation tools for data-analysis applications**
+- 🔭 I’m currently working on: **A Command Line Interface Project Manager**
 
-- 🌱 I’m currently learning: **PCB Design**
+- 🌱 I’m currently learning: **Rust**
 
-- ⚡ Enthusiastic about: **Computer Science (AI/ML), Astronomy, Biomedical Engineering, Aerospace Engineering, and Robotics**
+- ⚡ Enthusiastic about: **Computer Science (AI/ML), Software development, Astronomy, Biomedical Engineering, Aerospace Engineering, and Robotics**
 
 
 <h3 align="left">Languages and Tools:</h3>
