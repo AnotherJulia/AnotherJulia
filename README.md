@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">An overly curious Aerospace Engineering student</h3>
 
-- 🔭 I’m currently working on: **A Command Line Interface Project Manager**
+- 🔭 I’m currently working on: **A CLI Project Manager**
 
 - 🌱 I’m currently learning: **Rust**
 
