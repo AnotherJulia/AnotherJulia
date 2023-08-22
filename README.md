@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">An overly curious Aerospace Engineering student</h3>
 
-- 🔭 I’m currently working on: **A CLI Project Manager**
+- 🔭 I’m currently working on: **A Project Manager/organizer Application**
 
-- 🌱 I’m currently learning: **Rust**
+- 🌱 I’m currently learning: **Rust, React**
 
 - ⚡ Enthusiastic about: **Computer Science (AI/ML), Software development, Astronomy, Biomedical Engineering, Aerospace Engineering, and Robotics**
 
