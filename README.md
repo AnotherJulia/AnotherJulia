@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Project Organizer and Manager Application**
 
-- 🌱 I’m currently learning **React and Rust**
+- 🌱 I’m currently learning **The Rust Programming Language**
 
 - ⚡ I'm Enthusiastic About **Computer Science (AI/ML), Software development, Astronomy, Biomedical Engineering, Aerospace Engineering, and Robotics**
 
