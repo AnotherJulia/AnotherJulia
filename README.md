@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">An overly curious Aerospace Engineering Student</h3>
 
-- 🔭 I’m currently working on **A Project Organizer and Manager Application**
+- 🔭 I’m currently working on **Ari.ai**
 
 - 🌱 I’m currently learning **The Rust Programming Language**
 
