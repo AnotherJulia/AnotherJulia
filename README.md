@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">An overly curious Aerospace Engineering Student</h3>
 
-- 🔭 I’m currently working on **Ari.ai**
+- 🔭 I’m currently working on an **Orbital Mechanics Simulation for Asteroid Interception Trajectories**
 
-- 🌱 I’m currently learning **The Rust Programming Language**
+- 🌱 I’m currently learning **R**
 
-- ⚡ I'm Enthusiastic About **Computer Science (AI/ML), Software development, Astronomy, Biomedical Engineering, Aerospace Engineering, and Robotics**
+- ⚡ I'm Hyperfocussing on **Robotics**
 
 
 <h3 align="left">Languages and Tools:</h3>
