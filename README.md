@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">An overly curious Aerospace Engineering Student</h3>
-
-- 🔭 I’m currently working on an **Orbital Mechanics Simulation for Asteroid Interception Trajectories**
-
-- 🌱 I’m currently learning **R**
-
-- ⚡ I'm Hyperfocussing on **Robotics**
+<h3 align="center">An overly curious Aerospace Engineering/Nanobiology/Philosophy Student</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
